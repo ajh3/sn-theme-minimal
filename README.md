@@ -2,7 +2,7 @@
 
 For Standard Notes (https://standardnotes.org/)
 
-This theme is nearly the same as the default/blank theme, but widens the skinny scroll bars and toggles off the editor resizing feature, which frequently gets in the way of the scroll bars.
+This theme is nearly the same as the default/blank theme, but widens the scroll bars. Helpful for people who want to do that, as well as anyone who wants to toy with customizing a barebones SN theme.
 
 Tested on Ubuntu 18.04
 
@@ -20,9 +20,17 @@ metatype: json
         "name": "Minimal Standard Notes Theme",
         "content_type": "SN|Component",
         "area": "themes",
-        "version": "1.0.0",
-        "description": "A basic theme for Standard Notes with wider scroll bars and no editor resizing",
+        "version": "2.3.4",
+        "description": "A basic theme for Standard Notes with wider scroll bars",
         "url": "https://raw.githubusercontent.com/ajh3/sn-theme-minimal/master/dist/dist.css",
         "download_url": "https://github.com/ajh3/sn-theme-minimal/archive/master.zip"
 }
 ```
+
+# Revision history
+
+2.3.4: Update for version 2.3.4 release of Standard Notes. 
+
+- This version of SN added a native option to toggle off editor resizers, so that feature has been removed from this theme
+
+1.0.0: Initial version

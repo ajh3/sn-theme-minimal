@@ -1,5 +1,3 @@
-panel-resizer { display: none; }
-
 .windows-web ::-webkit-scrollbar, .windows-desktop ::-webkit-scrollbar, .linux-web ::-webkit-scrollbar, .linux-desktop ::-webkit-scrollbar {
   width: 20px;
 }
